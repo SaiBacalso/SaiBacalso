@@ -5,7 +5,7 @@ I am a passionate IT student at Xavier University - Ateneo de Cagayan, driven by
 ## 🚀 About Me
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at XU.
 - 🌱 I’m currently learning Full Stack Web Development and API creation.
-- 💬 Ask me about ...
+- 💬 Ask me about cats 
 - 🐈 I have a black cat named Coke
 - 📫 How to reach me: <20220025829@my.xu.edu.ph>
 
@@ -15,7 +15,8 @@ I am a passionate IT student at Xavier University - Ateneo de Cagayan, driven by
 ## 🌱 Currently Exploring
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React.
-  - Building server-side applications with Django or Express.js.
+  - API Creation
+  - AppScript Extension in Google Sheets
 
 
 Thanks for stopping by!
