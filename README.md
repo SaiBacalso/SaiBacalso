@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm SAI! 👋
 
-<!--
-**SaiBacalso/SaiBacalso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate IT student at Xavier University - Ateneo de Cagayan, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+![SaiBacalso's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+## 🚀 About Me
+- 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at XU.
+- 🌱 I’m currently learning Full Stack Web Development and API creation.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐈 I have a black cat named Coke
+- 📫 How to reach me: <20220025829@my.xu.edu.ph>
+
+## 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React.
+  - Building server-side applications with Django or Express.js.
+
+
+Thanks for stopping by!
